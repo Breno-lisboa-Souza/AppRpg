@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-08-26T00:29:03.507</Modified>
+      <Modified>2023-08-26T01:22:19.183</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-08-26T00:29:03.163</Modified>
+      <Modified>2023-08-26T01:20:56.328</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppRpgEtec.runtimeconfig.json">
       <PackagePath>AppRpgEtec.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppRpgEtec.dll">
       <PackagePath>AppRpgEtec.dll</PackagePath>
-      <Modified>2023-08-26T00:29:01.493</Modified>
+      <Modified>2023-08-26T01:22:18.229</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AppRpgEtec.exe</PackagePath>
-      <Modified>2023-08-26T00:29:01.524</Modified>
+      <Modified>2023-08-26T01:22:18.238</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.8\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -924,7 +924,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AppRpgEtec.deps.json">
       <PackagePath>AppRpgEtec.deps.json</PackagePath>
-      <Modified>2023-08-26T00:29:03.351</Modified>
+      <Modified>2023-08-26T01:22:19.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.86\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
