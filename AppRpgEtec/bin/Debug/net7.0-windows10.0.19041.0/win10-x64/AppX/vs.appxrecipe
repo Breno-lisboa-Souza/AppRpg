@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-08-28T23:41:19.523</Modified>
+      <Modified>2023-08-31T22:25:15.601</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-08-26T01:20:56.328</Modified>
+      <Modified>2023-08-31T22:25:15.298</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppRpgEtec.runtimeconfig.json">
       <PackagePath>AppRpgEtec.runtimeconfig.json</PackagePath>
-      <Modified>2023-08-26T00:29:02.890</Modified>
+      <Modified>2023-08-31T22:25:15.030</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppRpgEtec.dll">
       <PackagePath>AppRpgEtec.dll</PackagePath>
-      <Modified>2023-08-28T23:41:17.828</Modified>
+      <Modified>2023-08-31T22:25:13.833</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AppRpgEtec.exe</PackagePath>
-      <Modified>2023-08-28T23:41:17.884</Modified>
+      <Modified>2023-08-31T22:25:13.862</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.8\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -924,7 +924,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AppRpgEtec.deps.json">
       <PackagePath>AppRpgEtec.deps.json</PackagePath>
-      <Modified>2023-08-28T23:41:19.254</Modified>
+      <Modified>2023-08-31T22:25:15.474</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.86\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -944,23 +944,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-08-25T22:25:04.131</Modified>
+      <Modified>2023-08-30T21:53:39.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-08-25T22:25:04.148</Modified>
+      <Modified>2023-08-30T21:53:39.212</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-08-25T22:25:04.170</Modified>
+      <Modified>2023-08-30T21:53:39.261</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-08-25T22:25:04.205</Modified>
+      <Modified>2023-08-30T21:53:39.336</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-08-25T22:25:04.351</Modified>
+      <Modified>2023-08-30T21:53:39.599</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
