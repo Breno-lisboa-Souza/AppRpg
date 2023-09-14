@@ -727,6 +727,21 @@
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-100.png">
+      <PackagePath>add.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-125.png">
+      <PackagePath>add.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-150.png">
+      <PackagePath>add.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-200.png">
+      <PackagePath>add.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-400.png">
+      <PackagePath>add.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
     </AppxPackagedFile>
@@ -865,6 +880,21 @@
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\camera.scale-100.png">
+      <PackagePath>camera.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\camera.scale-125.png">
+      <PackagePath>camera.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\camera.scale-150.png">
+      <PackagePath>camera.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\camera.scale-200.png">
+      <PackagePath>camera.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\camera.scale-400.png">
+      <PackagePath>camera.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -879,6 +909,126 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\etec_cps.scale-100.png">
+      <PackagePath>etec_cps.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\etec_cps.scale-125.png">
+      <PackagePath>etec_cps.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\etec_cps.scale-150.png">
+      <PackagePath>etec_cps.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\etec_cps.scale-200.png">
+      <PackagePath>etec_cps.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\etec_cps.scale-400.png">
+      <PackagePath>etec_cps.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\exit.scale-100.png">
+      <PackagePath>exit.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\exit.scale-125.png">
+      <PackagePath>exit.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\exit.scale-150.png">
+      <PackagePath>exit.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\exit.scale-200.png">
+      <PackagePath>exit.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\exit.scale-400.png">
+      <PackagePath>exit.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png">
+      <PackagePath>home.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-125.png">
+      <PackagePath>home.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-150.png">
+      <PackagePath>home.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-200.png">
+      <PackagePath>home.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-400.png">
+      <PackagePath>home.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\info.scale-100.png">
+      <PackagePath>info.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\info.scale-125.png">
+      <PackagePath>info.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\info.scale-150.png">
+      <PackagePath>info.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\info.scale-200.png">
+      <PackagePath>info.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\info.scale-400.png">
+      <PackagePath>info.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menuarmas.scale-100.png">
+      <PackagePath>menuarmas.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menuarmas.scale-125.png">
+      <PackagePath>menuarmas.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menuarmas.scale-150.png">
+      <PackagePath>menuarmas.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menuarmas.scale-200.png">
+      <PackagePath>menuarmas.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menuarmas.scale-400.png">
+      <PackagePath>menuarmas.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menudisputas.scale-100.png">
+      <PackagePath>menudisputas.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menudisputas.scale-125.png">
+      <PackagePath>menudisputas.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menudisputas.scale-150.png">
+      <PackagePath>menudisputas.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menudisputas.scale-200.png">
+      <PackagePath>menudisputas.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menudisputas.scale-400.png">
+      <PackagePath>menudisputas.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menupersonagens.scale-100.png">
+      <PackagePath>menupersonagens.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menupersonagens.scale-125.png">
+      <PackagePath>menupersonagens.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menupersonagens.scale-150.png">
+      <PackagePath>menupersonagens.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menupersonagens.scale-200.png">
+      <PackagePath>menupersonagens.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menupersonagens.scale-400.png">
+      <PackagePath>menupersonagens.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menuusuarios.scale-100.png">
+      <PackagePath>menuusuarios.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menuusuarios.scale-125.png">
+      <PackagePath>menuusuarios.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menuusuarios.scale-150.png">
+      <PackagePath>menuusuarios.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menuusuarios.scale-200.png">
+      <PackagePath>menuusuarios.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\menuusuarios.scale-400.png">
+      <PackagePath>menuusuarios.scale-400.png</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
