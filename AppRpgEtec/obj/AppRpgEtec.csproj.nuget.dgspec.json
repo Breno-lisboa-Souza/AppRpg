@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Arquivos\\3DS\\PAM\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {}
+    "D:\\breno\\PAM\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {}
   },
   "projects": {
-    "C:\\Arquivos\\3DS\\PAM\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {
+    "D:\\breno\\PAM\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Arquivos\\3DS\\PAM\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
+        "projectUniqueName": "D:\\breno\\PAM\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
         "projectName": "AppRpgEtec",
-        "projectPath": "C:\\Arquivos\\3DS\\PAM\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
+        "projectPath": "D:\\breno\\PAM\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
         "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-        "outputPath": "C:\\Arquivos\\3DS\\PAM\\AppRpgEtec\\AppRpgEtec\\obj\\",
+        "outputPath": "D:\\breno\\PAM\\AppRpgEtec\\AppRpgEtec\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -85,10 +85,18 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
+            "Microsoft.Maui.Controls.Maps": {
+              "target": "Package",
+              "version": "[7.0.92, )"
+            },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
               "version": "[7.0.86, )",
               "autoReferenced": true
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.21.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -207,10 +215,18 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
+            "Microsoft.Maui.Controls.Maps": {
+              "target": "Package",
+              "version": "[7.0.92, )"
+            },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
               "version": "[7.0.86, )",
               "autoReferenced": true
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.21.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -280,10 +296,18 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
+            "Microsoft.Maui.Controls.Maps": {
+              "target": "Package",
+              "version": "[7.0.92, )"
+            },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
               "version": "[7.0.86, )",
               "autoReferenced": true
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.21.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -354,6 +378,10 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
+            "Microsoft.Maui.Controls.Maps": {
+              "target": "Package",
+              "version": "[7.0.92, )"
+            },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
               "version": "[7.0.86, )",
@@ -374,6 +402,10 @@
               "target": "Package",
               "version": "[1.2.221209.1, )",
               "autoReferenced": true
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.21.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",

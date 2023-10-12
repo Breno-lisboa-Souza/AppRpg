@@ -1,1 +1,1 @@
-C:\Arquivos\3DS\PAM\AppRpgEtec\AppRpgEtec\AppRpgEtec.csproj;x64
+D:\breno\PAM\AppRpg\AppRpgEtec\AppRpgEtec.csproj;x64

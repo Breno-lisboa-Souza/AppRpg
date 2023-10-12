@@ -38,12 +38,18 @@
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
-    <ShellContent
+        <Tab Title="Usuários" Route="usuarios" Icon="menuusuarios.svg">
+            <ShellContent
         Title="Usuários" 
         Icon="menuusuarios.svg"
         ContentTemplate="{DataTemplate viewsUsuarios:ListagemView}"/>
-    
-    <ShellContent 
+
+            <ShellContent
+        Title="Tempo Real"
+        ContentTemplate="{DataTemplate viewsUsuarios:LocalizacaoView}"/>
+        </Tab>
+
+            <ShellContent 
         Title="Personagens" 
         Icon="menupersonagens.svg"
         ContentTemplate="{DataTemplate viewsPersonagens:ListagemView}"/>
