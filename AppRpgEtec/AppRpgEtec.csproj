@@ -49,6 +49,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Platforms\Android\Resources\xml\file_paths.xml" />
 	  <None Remove="Resources\Images\add.svg" />
 	  <None Remove="Resources\Images\camera.svg" />
 	  <None Remove="Resources\Images\etec_cps.svg" />
@@ -66,6 +67,7 @@
 		<PackageReference Include="Microsoft.Maui.Controls.Maps" Version="7.0.92" />
 		<PackageReference Include="MongoDB.Bson" Version="2.21.0" />
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		<PackageReference Include="Xam.Plugin.Media" Version="5.0.1" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -87,6 +89,9 @@
 	  <MauiXaml Update="Views\Usuarios\CadastroView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Views\Usuarios\ImagemUsuarioView.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Views\Usuarios\ListagemView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
@@ -96,6 +101,14 @@
 	  <MauiXaml Update="Views\Usuarios\LoginView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <EditorConfigFiles Remove="D:\breno\PAM\AppRpg\AppRpgEtec\Views\Usuarios\.editorconfig" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Include="D:\breno\PAM\AppRpg\AppRpgEtec\Views\Usuarios\.editorconfig" />
 	</ItemGroup>
 
 </Project>

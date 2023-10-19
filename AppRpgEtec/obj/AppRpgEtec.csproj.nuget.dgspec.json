@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\breno\\PAM\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {}
+    "D:\\breno\\PAM\\AppRpg\\AppRpgEtec\\AppRpgEtec.csproj": {}
   },
   "projects": {
-    "D:\\breno\\PAM\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {
+    "D:\\breno\\PAM\\AppRpg\\AppRpgEtec\\AppRpgEtec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\breno\\PAM\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
+        "projectUniqueName": "D:\\breno\\PAM\\AppRpg\\AppRpgEtec\\AppRpgEtec.csproj",
         "projectName": "AppRpgEtec",
-        "projectPath": "D:\\breno\\PAM\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
+        "projectPath": "D:\\breno\\PAM\\AppRpg\\AppRpgEtec\\AppRpgEtec.csproj",
         "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-        "outputPath": "D:\\breno\\PAM\\AppRpgEtec\\AppRpgEtec\\obj\\",
+        "outputPath": "D:\\breno\\PAM\\AppRpg\\AppRpgEtec\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -101,6 +101,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[5.0.1, )"
             },
             "Xamarin.Android.Glide": {
               "target": "Package",
@@ -231,6 +235,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[5.0.1, )"
             }
           },
           "imports": [
@@ -312,6 +320,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[5.0.1, )"
             }
           },
           "imports": [
@@ -410,6 +422,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[5.0.1, )"
             }
           },
           "imports": [
