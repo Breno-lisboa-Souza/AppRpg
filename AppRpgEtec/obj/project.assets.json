@@ -29232,11 +29232,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\breno\\PAM\\AppRpg\\AppRpgEtec\\AppRpgEtec.csproj",
+      "projectUniqueName": "D:\\breno\\PAM\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
       "projectName": "AppRpgEtec",
-      "projectPath": "D:\\breno\\PAM\\AppRpg\\AppRpgEtec\\AppRpgEtec.csproj",
+      "projectPath": "D:\\breno\\PAM\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
       "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "D:\\breno\\PAM\\AppRpg\\AppRpgEtec\\obj\\",
+      "outputPath": "D:\\breno\\PAM\\AppRpgEtec\\AppRpgEtec\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

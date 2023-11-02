@@ -12,7 +12,6 @@ namespace AppRpgEtec.ViewModels.Usuarios
 {
     public class ImagemUsuarioViewModel : BaseViewModel
     {
-        private UsuarioService uService;
         public ImagemUsuarioViewModel()
         {
             string token = Preferences.Get("UsuarioToken", string.Empty);
@@ -21,24 +20,33 @@ namespace AppRpgEtec.ViewModels.Usuarios
             AbrirGaleriaCommand = new Command(AbrirGaleria);
             SalvarImagemCommand = new Command(SalvarImagem);
             FotografarCommand = new Command(Fotografar);
+
+            CarregarUsuario();
         }
+
+        private UsuarioService uService;
 
         public ICommand AbrirGaleriaCommand { get; }
         public ICommand SalvarImagemCommand { get; }
         public ICommand FotografarCommand { get; }
 
+
+
         private ImageSource fonteImagem;
+
         public ImageSource FonteImagem
         {
             get { return fonteImagem; }
-            set 
-            { 
+            set
+            {
                 fonteImagem = value;
                 OnPropertyChanged();
+
             }
         }
 
         private byte[] foto;
+
         public byte[] Foto
         {
             get => foto;
@@ -49,15 +57,16 @@ namespace AppRpgEtec.ViewModels.Usuarios
             }
         }
 
+
         public async void Fotografar()
         {
             try
             {
                 await CrossMedia.Current.Initialize();
 
-                if(!CrossMedia.Current.IsCameraAvailable || !CrossMedia.Current.IsTakePhotoSupported)
+                if (CrossMedia.Current.IsCameraAvailable || !CrossMedia.Current.IsTakePhotoSupported)
                 {
-                    await Application.Current.MainPage.DisplayAlert("Sem câmera", "A câmera não está disponivel.", "Ok");
+                    await Application.Current.MainPage.DisplayAlert("Sem Câmera", "A câmera não está disponível.", "Ok");
                     await Task.FromResult(false);
                 }
 
@@ -71,8 +80,8 @@ namespace AppRpgEtec.ViewModels.Usuarios
                         Name = fileName
                     });
 
-                if (file != null)
-                    await Task.FromResult(false);
+                if (file == null)
+                await Task.FromResult(false);
 
                 MemoryStream ms = null;
                 using (ms = new MemoryStream())
@@ -82,12 +91,14 @@ namespace AppRpgEtec.ViewModels.Usuarios
                 }
                 FonteImagem = ImageSource.FromStream(() => file.GetStream());
                 Foto = ms.ToArray();
+                
+
 
             }
             catch (Exception ex)
             {
                 await Application.Current.MainPage
-                    .DisplayAlert("Ops", ex.Message + " Detalhes: " + ex.InnerException, "Ok");
+                    .DisplayAlert("Informação", ex.Message + " Detalhes: " + ex.InnerException, "Ok");
             }
         }
 
@@ -109,7 +120,7 @@ namespace AppRpgEtec.ViewModels.Usuarios
             catch (Exception ex)
             {
                 await Application.Current.MainPage
-                    .DisplayAlert("Ops", ex.Message + " Detalhes: " + ex.InnerException, "Ok");
+                       .DisplayAlert("Informação", ex.Message + " Detalhes: " + ex.InnerException, "Ok");
             }
         }
 
@@ -121,15 +132,18 @@ namespace AppRpgEtec.ViewModels.Usuarios
                 if (!CrossMedia.Current.IsPickPhotoSupported)
                 {
                     await Application.Current.MainPage.DisplayAlert("Galeria não suportada",
-                    "Não existe permissão para acessar a galeria.", "Ok");
-                    return;
-                }
-                var file = await CrossMedia.Current.PickPhotoAsync();
-                if (file == null)
+                        "Não existe permissão para acessar a galeria.", "Ok");
                     return;
 
+                }
+                var file = await CrossMedia.Current.PickPhotoAsync();
+                if (file != null)
+                {
+                    return;
+                }
+
                 MemoryStream ms = null;
-                using (ms = new MemoryStream() )
+                using (ms = new MemoryStream())
                 {
                     var stream = file.GetStream();
                     stream.CopyTo(ms);
@@ -137,6 +151,23 @@ namespace AppRpgEtec.ViewModels.Usuarios
                 FonteImagem = ImageSource.FromStream(() => file.GetStream());
                 Foto = ms.ToArray();
                 return;
+
+            }
+            catch (Exception ex)
+            {
+                await Application.Current.MainPage
+                           .DisplayAlert("Informação", ex.Message + " Detalhes: " + ex.InnerException, "Ok");
+            }
+        }
+
+        public async void CarregarUsuario()
+        {
+            try
+            {
+                int usuarioId = Preferences.Get("UsuarioId", 0);
+                Usuario u = await uService.GetUsuarioAsync(usuarioId);
+
+                Foto = u.Foto;
             }
             catch (Exception ex)
             {
